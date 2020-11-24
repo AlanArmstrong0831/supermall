@@ -1,5 +1,5 @@
 module.exports = {
-  configurewebpack: {
+  configureWebpack: {
     resolve: {
       alias: {
         '@': resolve('src'),
